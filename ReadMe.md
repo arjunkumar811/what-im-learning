@@ -7,3 +7,4 @@
 3.Bitcoin Whitepaper -> https://bitcoin.org/en/bitcoin-paper
 
 4.Vibe coding -> https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/
+
