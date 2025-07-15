@@ -8,3 +8,5 @@
 
 4.Vibe coding -> https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/ ✅
 
+5.Open Source Bootcamp -> https://www.youtube.com/watch?v=fSmLiOMp2qI&list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68&index=1 🔥
+
