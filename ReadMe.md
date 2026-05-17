@@ -11,15 +11,16 @@
     
 -> https://www.youtube.com/watch?v=SJqGYwRq0uc&list=WL ✅
 
-5.Open Source Bootcamp -> https://www.youtube.com/watch?v=fSmLiOMp2qI&list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68&index=1 ⏳
+5.Open Source Bootcamp -> https://www.youtube.com/watch?v=fSmLiOMp2qI&list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68&index=1
 
-6.SEO -> https://www.youtube.com/watch?v=xsVTqzratPs ⏳
+6.SEO -> https://www.youtube.com/watch?v=xsVTqzratPs  
 
-7.Dapp -> https://petal-estimate-4e9.notion.site/Extra-session-Ideating-creating-and-publishing-your-first-Dapp-OS-work-9f8a24fe05bc47caaebb7c87ed70c338
+7.Dapp -> https://petal-estimate-4e9.notion.site/Extra-session-Ideating-creating-and-publishing-your-first-Dapp-OS-work-9f8a24fe05bc47caaebb7c87ed70c338 
 
 8.Solana Fellowship: https://github.com/arjunkumar811/Solana-Fellowship
 
-9.CEX -> https://petal-estimate-4e9.notion.site/CEX-3527dfd10735805081c1fcc4b82234fc
+9.CEX -> https://petal-estimate-4e9.notion.site/CEX-3527dfd10735805081c1fcc4b82234fc ✅
 
+10.Private Key Managment : ⌛
 
 
