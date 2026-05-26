@@ -21,6 +21,6 @@
 
 9.CEX -> https://petal-estimate-4e9.notion.site/CEX-3527dfd10735805081c1fcc4b82234fc ✅
 
-10.Private Key Managment : ⌛
+10.Private Key Managment : Multisig
 
 
