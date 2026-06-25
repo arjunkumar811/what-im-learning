@@ -24,6 +24,7 @@
 10.Private Key Managment : Multisig
 
 11.AI Agents -> https://www.youtube.com/watch?v=87T8xE-_yeo&t=301s
+
    Slides: https://www.canva.com/design/DAHLVpq6xX4/9UmkKqVi2xzldv9K9IkrYg/edit
 
 
