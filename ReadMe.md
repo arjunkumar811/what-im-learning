@@ -11,6 +11,8 @@
     
 -> https://www.youtube.com/watch?v=SJqGYwRq0uc&list=WL ✅
 
+5.Deployment : https://youtu.be/gViEtIJ1DCw?si=VcOPR_V9MTMQ57V-
+
 5.Open Source Bootcamp -> https://www.youtube.com/watch?v=fSmLiOMp2qI&list=PLVKLWop9wWA9h7qWQb6xByfXsRq18U-68&index=1
 
 6.SEO -> https://www.youtube.com/watch?v=xsVTqzratPs  
