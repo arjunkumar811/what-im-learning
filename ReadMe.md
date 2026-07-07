@@ -31,4 +31,5 @@
 
 13.Forward Deployed Engineer : https://www.forbes.com/councils/forbestechcouncil/2025/12/29/the-rise-of-the-forward-deployed-engineer-a-new-career-path-for-the-native-ai-era/ ✅
 
+14.Harness Engineering : https://www.youtube.com/watch?v=IqQFaj3oO0Q&t=6s✅ 
 
