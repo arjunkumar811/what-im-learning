@@ -27,8 +27,8 @@
 
 11.AI Code : https://youtu.be/LuCXiNxZ1Dw?si=i2k5aw7SjdkcWTMy 
 
-11.AI Agents -> https://www.youtube.com/watch?v=87T8xE-_yeo&t=301s
+12.AI Agents -> https://www.youtube.com/watch?v=87T8xE-_yeo&t=301s     ||     Slides: https://www.canva.com/design/DAHLVpq6xX4/9UmkKqVi2xzldv9K9IkrYg/edit
 
-   Slides: https://www.canva.com/design/DAHLVpq6xX4/9UmkKqVi2xzldv9K9IkrYg/edit
+13.Forward Deployed Engineer : https://www.forbes.com/councils/forbestechcouncil/2025/12/29/the-rise-of-the-forward-deployed-engineer-a-new-career-path-for-the-native-ai-era/ ✅
 
 
