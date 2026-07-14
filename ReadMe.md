@@ -35,3 +35,5 @@
 
 15.Claude Code: https://www.youtube.com/watch?v=brLhhkUqcn4&list=PLagJMvWaS_wo3ALLkrXTePmVF-h6ozsje&index=11
 
+16.cursor: https://www.youtube.com/watch?v=2aldTxnbNt0&t=1570s
+
